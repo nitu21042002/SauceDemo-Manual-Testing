@@ -20,7 +20,6 @@ The objective is to verify application functionality, identify defects, and docu
 
 ## Testing Tools
 - Microsoft Excel – Test Documentation
-- Jira – Defect Tracking
 - Chrome – Manual Testing
 - GitHub – Project Documentation
 
@@ -30,10 +29,9 @@ The objective is to verify application functionality, identify defects, and docu
 - Test Cases
 - Requirement Traceability Matrix (RTM)
 - Test Execution Report
-- Bug Reports
 
 ## Project Status
-In Progress
+Complated
 
 ## Author
 Nitu Yadav
